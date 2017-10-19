@@ -1,0 +1,4 @@
+SHOW DATABASES;
+
+CREATE DATABASE projectdb;
+USE projectdb;
